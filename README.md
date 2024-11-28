@@ -3,6 +3,10 @@ I had trouble using `firebase`'s drop-in authentication as it only supported nam
 
 See: https://firebase.google.com/docs/auth/web/firebaseui?authuser=0&hl=en
 
+## Example code
+- [index.html](index.html) has CDN script includes and calls:
+- [init-firebase.js](init-firebase.js)
+
 ## Namespaced libraries supported by drop-in authentication
 See Available libraries. Scroll past Modular libraries to Namespaced libraries.
 
