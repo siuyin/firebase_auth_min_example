@@ -7,6 +7,9 @@ See: https://firebase.google.com/docs/auth/web/firebaseui?authuser=0&hl=en
 - [index.html](index.html) has CDN script includes and calls:
 - [init-firebase.js](init-firebase.js)
 
+- [fbauth/index.html](fbauth/index.html) shows an updated example *without* using
+  drop-in authentication. This was built from modular CDN firebase libraries.
+
 ## Namespaced libraries supported by drop-in authentication
 See Available libraries. Scroll past Modular libraries to Namespaced libraries.
 
